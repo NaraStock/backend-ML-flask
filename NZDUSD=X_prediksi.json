@@ -2,36 +2,36 @@
     {
         "t+1": {
             "classification": "Naik",
-            "classification_probability": 0.6260157823562622,
-            "predicted_close_price": 0.6030932247704075
+            "classification_probability": 0.49528706073760986,
+            "predicted_close_price": 0.6065671153675427
         }
     },
     {
         "t+2": {
             "classification": "Naik",
-            "classification_probability": 0.6697077751159668,
-            "predicted_close_price": 0.6032699494964393
+            "classification_probability": 0.43574970960617065,
+            "predicted_close_price": 0.6066947053858232
         }
     },
     {
         "t+3": {
             "classification": "Naik",
-            "classification_probability": 0.7844880819320679,
-            "predicted_close_price": 0.6035314315933422
+            "classification_probability": 0.4784198999404907,
+            "predicted_close_price": 0.6072560160145914
         }
     },
     {
         "t+4": {
             "classification": "Naik",
-            "classification_probability": 0.886393666267395,
-            "predicted_close_price": 0.6036772067942198
+            "classification_probability": 0.4470362365245819,
+            "predicted_close_price": 0.6073918307556911
         }
     },
     {
         "t+5": {
-            "classification": "Naik",
-            "classification_probability": 0.9563349485397339,
-            "predicted_close_price": 0.6042210131833516
+            "classification": "Turun",
+            "classification_probability": 0.4445421099662781,
+            "predicted_close_price": 0.6073873845987126
         }
     }
 ]
